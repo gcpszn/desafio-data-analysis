@@ -25,6 +25,7 @@ Você foi contratado como **Engenheiro de Dados Júnior** por uma empresa de e-c
 
 ## 🗂️ Estrutura do Projeto
 
+```
 ecommerce-data-analysis/
 │
 ├── data/
@@ -39,6 +40,7 @@ ecommerce-data-analysis/
 │
 └── .gitignore
 
+```
 ---
 
 ## 📊 Principais Técnicas Aplicadas

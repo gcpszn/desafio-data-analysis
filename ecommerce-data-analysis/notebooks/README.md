@@ -68,13 +68,15 @@ Profissional em formação com foco em **análise, modelagem e visualização de
 ## 💾 Execução do Projeto:
 
 1. Clone o repositório:
-*git clone https://github.com/gcpszn/desafio-data-analysis.git*
+
+- *git clone https://github.com/gcpszn/desafio-data-analysis.git*
 - *cd desafio-data-analysis*
 
 2. Instale as dependências:
-*pip install -r requirements.txt*
+
+- *pip install -r requirements.txt*
 
 3. Abra o notebook principal:
-*jupyter notebook notebooks/ecommerce-data-analysis.ipynb*
+- *jupyter notebook notebooks/ecommerce-data-analysis.ipynb*
 
 ---

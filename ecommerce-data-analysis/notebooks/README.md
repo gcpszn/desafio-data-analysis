@@ -30,10 +30,13 @@ ecommerce-data-analysis/
 ├── data/
 │ ├── dados/ # Arquivos CSV originais
 │ └── dados_tratados/ # Dados prontos para análise
+│
 ├── imagens/ # Gráficos exportados
+│
 ├── notebooks/ # Jupyter Notebooks
-│ ├── requirements.txt/ # Dependências do projeto
-│ └── README.md/ # Este documento
+│ ├── README.md # Documentação do projeto
+│ └── requirements.txt # Dependências do projeto
+│
 └── .gitignore
 
 ---
@@ -50,28 +53,25 @@ ecommerce-data-analysis/
 
 ---
 
-## 💾 Execução do Projeto:
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/gcpszn/desafio-data-analysis.git
-cd desafio-data-analysis
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-
-```bash
-Abra o notebook principal:
-jupyter notebook notebooks/ecommerce-data-analysis.ipynb
-
----
-
 ## 👨‍💻 Sobre o Desenvolvedor
 
 **Gustavo Paixão**  
 Profissional em formação com foco em **análise, modelagem e visualização de dados**.  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavocbpaixao/)  
 🔗 [GitHub](https://github.com/gcpszn)
+
+---
+
+## 💾 Execução do Projeto:
+
+1. Clone o repositório:
+*git clone https://github.com/gcpszn/desafio-data-analysis.git*
+*cd desafio-data-analysis*
+
+2. Instale as dependências:
+*pip install -r requirements.txt*
+
+3. Abra o notebook principal:
+*jupyter notebook notebooks/ecommerce-data-analysis.ipynb*
+
+---
